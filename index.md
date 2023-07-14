@@ -12,9 +12,6 @@ permalink: /
 A framework consisting of trainings, resources, and tools to promote accessibility in native Android applications.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][AALT repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
-
 ---
 
 The AALT Framework aims to assist in teaching and testing accessibility in native Android mobile applications. It provides a set of artifacts divided into three categories: learning, resources, and tools. Through pragmatic solutions, such as the adoption of established tools and prioritizing accessibility issues and UI elements, the AALT Framework seeks to actively engage developers in the development process of accessible native Android applications.
