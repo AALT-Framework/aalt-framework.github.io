@@ -15,6 +15,8 @@ parent: Learning
 
 # Codelabs para acessibilidade em apps Android (em português)
 
+- [Como testar a acessibilidade em soluções mobile (WebMedia 2023)](https://aalt-framework.github.io/codelabs/tutorial-acessibilidade-webmedia2023/#0)
+
 - [Melhorar a acessibilidade do app Counter com o Kit de Testes de Acessibilidade Automatizados para Aplicativos Android (AATK)](http://aalt-framework.github.io/codelabs/acessibilidade-android-com-testes-automatizados)
 
 - [Melhorar a acessibilidade do app Counter com o Espresso](http://aalt-framework.github.io/codelabs/acessibilidade-android-com-espresso)

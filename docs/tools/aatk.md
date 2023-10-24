@@ -17,7 +17,7 @@ These tests were developed with a focus on the most common accessibility issues 
 
 To use AATK in your Android project, follow these steps:
 
-1. Add it in your root build.gradle at the end of repositories.
+1. Add it in the settings.gradle at the end of repositories.
 ```groovy
 allprojects {
   repositories {
@@ -27,6 +27,7 @@ allprojects {
 }
 ```
 2. Configure your app-level build.gradle file for Robolectric and AATK testing by updating the testOptions and adding the necessary dependencies. After making these changes, sync your project to ensure they take effect.
+
 ```groovy
 android{
     ...
@@ -44,8 +45,10 @@ dependencies {
     ...
 }
 ```
+
 ## Usage
 Create your own Java Test File class and set up like this:
+
 ```java
 @RunWith(RobolectricTestRunner.class)
 public class MyActivityTest {
