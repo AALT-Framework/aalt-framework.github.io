@@ -7,5 +7,7 @@ permalink: /learning/publications
 parent: Learning
 ---
 
-- [Early accessibility testing – an automated kit for Android developers](https://dl.acm.org/doi/10.1145/3617023.3617028)
-    Published on _WebMedia '23: Proceedings of the 29th Brazilian Symposium on Multimedia and the Web_
+# Publications
+
+## [Early accessibility testing – an automated kit for Android developers](https://dl.acm.org/doi/10.1145/3617023.3617028)
+Published on _WebMedia '23: Proceedings of the 29th Brazilian Symposium on Multimedia and the Web_
